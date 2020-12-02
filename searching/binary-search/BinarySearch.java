@@ -1,3 +1,21 @@
+
+// A fixed point
+// For a sorted array A consisting of only unique numbers, a fixed point is an index i such that A[i]=i. Write a program that identifies whether a sorted array contains a fixed point.
+
+// Input: the first line contains one number n. The second line contains an array of n numbers separated by spaces. The array is sorted in ascending order.
+
+// Output: true if the array contains a fixed point and false otherwise.
+
+// Note that the problem is easy to solve using linear search. We recommend you to solve this problem using binary search to improve the understanding of the algorithm.
+
+
+// Sample Input:
+// 5
+// -8 -2 0 3 9
+
+// Sample Output:
+// true
+
 import java.util.*;
 import java.io.*;
 
